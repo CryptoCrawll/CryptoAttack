@@ -100,3 +100,5 @@ except KeyboardInterrupt:
 		print "\n\n" + optionless + white + "Saindo do programa..."
 		time.sleep(1.2)
  		exit()
+		
+############################ 35.196.50.228 ############################
